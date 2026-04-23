@@ -730,5 +730,5 @@ Key insight I want to remember:
 
 > **Tip of the Day:** Practice explaining your thought process out loud as you code. Interviewers care as much about communication as correctness. Talk through: "I'm choosing this approach because..." and "The trade-off here is..."
 
-**Previous:** [Day 1 — Two Sum + URL Shortener](./day-01-two-sum-url-shortener.md)  
-**Next:** [Day 3 — Valid Parentheses + Key-Value Store](./day-03-valid-parentheses-kv-store.md)
+**Previous:** [Day 1 — Two Sum + URL Shortener](../DAY-01/day-01-two-sum-url-shortener.md)  
+**Next:** [Day 3 — Valid Parentheses + Key-Value Store](../DAY-03/day-03-valid-parentheses-kv-store.md)

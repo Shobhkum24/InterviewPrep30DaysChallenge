@@ -557,4 +557,4 @@ Key insight I want to remember:
 
 > **Tip of the Day:** Start strong — warm up with fundamentals. Review Big-O notation today. Tomorrow we tackle Best Time to Buy and Sell Stock + Rate Limiter design.
 
-**Next:** [Day 2 → Best Time to Buy and Sell Stock + Design Rate Limiter](./day-02.md)
+**Next:** [Day 2 → Best Time to Buy and Sell Stock + Design Rate Limiter](../DAY-02/day-02-stock-profit-rate-limiter.md)
