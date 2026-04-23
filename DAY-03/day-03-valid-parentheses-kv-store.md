@@ -223,7 +223,7 @@ In-Memory Layer (fast):      Disk Layer (durable):
 
 ```mermaid
 flowchart TD
-    KEY[Key: "user:123"] --> HASH[Hash Function]
+    KEY[Key: user:123] --> HASH[Hash Function]
     HASH --> RING[Hash Ring 0..2^32]
     RING --> N1[Node A: 0..85M]
     RING --> N2[Node B: 85M..170M]
